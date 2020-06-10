@@ -47,7 +47,7 @@ I am a senior software engineer with thorough hands on experience of over ten ye
 
 *Collaborated with team members using Mercurial for source control.
 
-*[Previous Roles Can Be Found On Resume](http://nickpersad.com/Nick+Persad+Resume.pdf)*
+*[Previous Roles Can Be Found On Resume](http://nickpersad.com/Nick+Persad+Resume+2020.pdf)*
 
 ---
 
