@@ -11,15 +11,17 @@ I am a senior software engineer with thorough hands on experience of over ten ye
 
 #### [Telit](https://www.telit.com) — Boca Raton, FL — Jun 2014 - Present
 
-*JavaScript and PHP engineer, building enterprise applications (Angular, React, cakePHP, NodeJS, and MongoDB) used to gather and display real time data from machines on the factory floor to cargo ships on the seven seas.
+*JavaScript and PHP engineer lead who has been building enterprise applications (Angular, React, cakePHP, NodeJS, and MongoDB) used to gather and display real time IoT data from machines on the factory floor to cargo ships.
 
-*Data is curated from raw JSON/CSV/XML sent from a proxy or gateway using our proprietary software, stored in MongoDB and then built out into tables, graphs, charts, and maps for end users.
+*Data is curated from raw JSON/CSV/XML sent from a proxy or gateway using our proprietary software, where I store it in MongoDB using NodeJS to create RESTful APIs to then build out CRUD tables, graphs, charts, and maps for end users in Angular, PHP, or React using the latest responsive layouts.
 
-*Designed and collaborated overall architecture of web applications.
+*Designed and collaborated overall architecture for 80% of our portfolio of web applications.
 
 *Prepare and present rough drafts and ideas to internal teams and key stakeholders.
 
 *Maintained code integrity and organization of new and legacy projects reducing technical debt along the way.
+
+*Created an automated testing workflow using Cypress.io and TDD practices.
 
 *Illustrative design ideas using storyboards, process flows, and sitemaps.
 
